@@ -5,7 +5,7 @@
 /frontend/.pnp.js
 
 /frontend/coverage
-
+/./config/config.env
 /frontend/build
 
 /frontend/.DS_Store
