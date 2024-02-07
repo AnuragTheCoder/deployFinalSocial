@@ -7,7 +7,7 @@
 /frontend/coverage
 /./config/config.env
 /frontend/build
-
+/config.env
 /frontend/.DS_Store
 /frontend/.env.local
 /frontend/.env.development.local
